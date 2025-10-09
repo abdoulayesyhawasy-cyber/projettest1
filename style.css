@@ -105,16 +105,16 @@ a{
     text-align: center;
     display: flex;
     gap: 100;
-    padding: 69px 240px;
+    padding: 69px 210px;
     border-radius: 20px;
     margin: -50px 50px 0px 60px;
 }
 .hero4{
     background-color: #ff6600;
     display: flex;
-    padding: 69px 500px;
+    padding: 69px 50px;
     border-radius: 20px;
-    margin: -300px 50px 0px 60px;
+    margin: -400px 50px 0px 60px;
 }
 .hero3{
     background: #e0dede;
@@ -142,6 +142,37 @@ a{
     padding: 10px 20px;
     border-radius: 6px;
 
+}
+.highlight3{
+    color: #fff;
+    background: #fff;
+    padding: 7px 5px;
+    margin: -1px 20px 0px -1px; 
+}
+.highlight4{
+    color: #fff;
+    background: #fff;
+    padding: 7px 5px;
+    margin: 10px 15px 0px -0px;
+}
+.highlight5{
+    color: #fff;
+    background: #fff;
+    padding: 7px 5px;
+    margin: 0px -130px 0px 0px;
+}
+.highlight6{
+    color: #fff;
+    background: #fff;
+    padding: 7px 5px;
+    margin: 0px -130px 0px 0px;
+}
+.highlight7{
+    text-align: center;
+    background: #3b1f0d;
+    color: #fff;
+    padding: 7px 7px;
+    margin: 20px -140px 0px -1px;
 }
 .subtext{
     background-color: #f37623;
@@ -184,11 +215,11 @@ a{
 }
 .img2{
     background-position: right;
-    margin: -110px 500px -100px 500px;
+    margin: -110px 700px -100px 700px;
 }
 .img3{
     background-position: left;
-    margin: 10px 10px 10px 50px;
+    margin: 10px 30px 10px 50px;
 }
 .img4{
     background-position: right;
@@ -199,7 +230,7 @@ a{
 }
 .img6{
     background-position: left;
-    margin: -10px 0px 0px 60px;
+    margin: -70px 600px 0px -10px;
 }
 .container2{
     display: flex;
@@ -223,6 +254,14 @@ a{
     border: 1px solide orange;
     padding: 15px;
     
+}
+.carte{
+    color: #fff;
+    margin: 10px 200px 0px -90px;
+}
+.carte1{
+    color: #fff;
+    margin: 40px 200px 0px -200px;
 }
 .la{
     border: 1px solide black ;
@@ -248,13 +287,13 @@ a{
 
 }
 .text3{
-    margin: -20px 400px 1px -110px;
+    margin: -20px 10px 1px -610px;
     font-size: 14px;
     font-weight: bold;
     
 }
 .text4{
-    margin: -20px 50px 0px -110px;
+    margin: -20px -10px 0px -110px;
     font-size: 14px;
     font-weight:bold;
 }
@@ -263,6 +302,8 @@ a{
     font-size: 14px;
 }
 .text6{
+    text-align:center;
+    margin: -20px -200px 0px -500px;
     color: #fff;
 }
 .valeur{
@@ -275,12 +316,49 @@ a{
     box-shadow: 0 2px 6px rgba(0,0,0,0,1);
 }
 .valeur1{
-
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    width: 200px;
+    text-align: left;
+    margin: 0px 10px;
+    
+}
+.valeur2{
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    width: 200px;
+    text-align: left;
+    margin: 0px 10px;
 }
 .du{
    color: #ff6600;
 }
 .les{
     color: #fff;
+    margin: -10px;
+}
+.da{
+    background: #ff6600;
+    margin: 0px 
+}
+.de{
+    background: #f9f4f4;
+    margin: 0px 20px 0px 40px;
+}
+.di{
+    background: #f9f4f4;
+    margin: 0px 20px;
     
+}
+.les{
+    color: #fff;
+    margin: 30px -200px 0px 40px;
+}
+.leur{
+    margin: 0px 40px 0px -260px;
+}
+.cet{
+    margin: -200px 500px -200px;
 }
